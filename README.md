@@ -1,6 +1,8 @@
-# The relationship between medium household income and the rates of 3 health conditions in Toronto
+# Health and Disease Analysis
 
-### The three health conditions we delve into in this anaylsis
+We analysed the relationship between medium household income and the rates of 3 health conditions in Toronto.
+
+The three health conditions we delve into in this anaylsis:
 1. Diabetes 
 2. High blood pressure
 3. Mental health visits at a hospital
