@@ -8,5 +8,5 @@ In this anaylsis, we delved into the following three health conditions:
 3. Mental health visits at a hospital
 
 ## Presentation for the Data Science Conference
-Final project in GGR274 presented using Jupyter Notebook.
+Final project presented using Jupyter Notebook to a class of 100+ attendees.
 
